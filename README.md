@@ -1928,3 +1928,6 @@ bold are implemented
 - `U+1F3F4 U+E0067 U+E0062 U+E0065 U+E006E U+E0067 U+E007F` 🏴󠁧󠁢󠁥󠁮󠁧󠁿 flag: England
 - `U+1F3F4 U+E0067 U+E0062 U+E0073 U+E0063 U+E0074 U+E007F` 🏴󠁧󠁢󠁳󠁣󠁴󠁿 flag: Scotland
 - `U+1F3F4 U+E0067 U+E0062 U+E0077 U+E006C U+E0073 U+E007F` 🏴󠁧󠁢󠁷󠁬󠁳󠁿 flag: Wales
+
+# evil non-standard addons
+- `U+1F642 U+200D U+1F644` <img width="97" height="97" alt="imagen" src="https://github.com/user-attachments/assets/5703785d-d869-485a-bb51-4265c9471116" /> wechat [Smile]
