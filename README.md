@@ -1,3 +1,6 @@
+# shitmoji... emojis drawn in paint.
+bold are implemented
+
 - `U+1F600` 😀 **grinning face**
 - `U+1F603` 😃 **grinning face with big eyes**
 - `U+1F604` 😄 **grinning face with smiling eyes**
